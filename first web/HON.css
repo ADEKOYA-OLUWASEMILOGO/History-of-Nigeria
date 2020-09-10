@@ -1,0 +1,39 @@
+a{
+    color: peru;
+    text-decoration: none;
+}
+a:hover{
+    list-style-type: none;
+    color: green;
+}
+span{
+    color: red;
+    font-style: italic;
+}
+tr{
+    text-align: center;
+}
+table{
+    background-color: silver;
+}
+.hausa{
+    font-size: 20px;
+}
+.overall{
+    background-image: url(nigerian\ flag.jpg);
+    background-attachment: fixed;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+}
+marquee{
+    font-size: 20pt;
+}
+h2{
+    color: darkred;
+}
+h1{
+    color: orangered;
+}
